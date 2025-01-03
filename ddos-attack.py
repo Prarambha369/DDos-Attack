@@ -8,7 +8,7 @@ now = datetime.now()
 hour = now.hour
 minute = now.minute
 day = now.day
-month = now.mont
+month = now.month
 year = now.year
 
 ##############
