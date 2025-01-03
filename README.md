@@ -10,7 +10,7 @@ A Distributed Denial of Service (DDoS) attack is an attempt to make an online se
 git clone https://github.com/Prarambha369/DDos-Attack
 ```
 ```sh
-cd DDos-Attack!
+cd DDos-Attack
 ```
 ```sh
 chmod +x ddos-attack.py
